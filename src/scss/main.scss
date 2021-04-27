@@ -78,10 +78,11 @@ body {
 
 
 .main {
+  min-width: 1170px;
   padding-top: 55px;
   background-image: url("../images/fire_bg.png"),
                     url("../images/couple_bg.png");
-  background-position: 55% 240px,
+  background-position: 55% 220px,
                         400px top;
   background-repeat: no-repeat;
   background-size: 70%, 90%;
@@ -459,4 +460,22 @@ body {
   p {
     margin: 0;
   }
+}
+
+.form-price {
+}
+.form-price-old {
+}
+.order-form-saving {
+}
+
+
+//не пригодилось. пока
+.order-features-wrapp {
+}
+.order-features-drop {
+}
+.order-features-list {
+}
+.order-features-item {
 }
